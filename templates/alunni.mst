@@ -1,0 +1,10 @@
+<h1>ciao</h1>
+{{getNome}}
+
+<url>
+{{#getArray}}
+<li>{{getNome}} {{getCognome}} {{getEta}}</li>
+
+
+{{/getArray}}
+</url>
